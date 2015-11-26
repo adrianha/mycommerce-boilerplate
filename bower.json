@@ -1,0 +1,12 @@
+{
+  "name": "mycommerce-boilerplate",
+  "authors": [
+    "Adrian Hartanto <s.adrianh@gmail.com>"
+  ],
+  "description": "mycommerce-boilerplate",
+  "main": "index.html",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "adrianhartanto.com",
+  "private": true
+}
